@@ -3,7 +3,17 @@
         "outDir": "./built",
         "target": "es6",
         "module": "commonjs",
-        "sourceMap": true
+        "sourceMap": true,
+        "noImplicitReturns": true,
+        "noImplicitAny": true,
+        "forceConsistentCasingInFileNames": true,
+        "listFiles": true,
+        "noImplicitThis": true,
+        "noUnusedParameters": true,
+        "noUnusedLocals": true,
+        "pretty": true,
+        "strictNullChecks": true,
+        "noEmitOnError": true
     },
     "include": [
         "./src/**/*"
