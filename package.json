@@ -1,0 +1,13 @@
+{
+    "name": "webgl-engine",
+    "version": "0.1.0",
+    "description": "Trying to get in on the ground floor with this new web thing",
+    "author": "David Dubois dexcelstraun7@gmail.com",
+    "main": "src/main.js",
+    "scripts": {
+        "start": "node src/main.js"
+    },
+    "dependencies": {
+        "typescript": "2.0.x"
+    }
+}
