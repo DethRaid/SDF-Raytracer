@@ -8,3 +8,6 @@
 
 ### Compiled TypeScript ###
 built/
+
+src/tsm/
+node_modules/

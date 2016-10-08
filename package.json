@@ -8,6 +8,7 @@
         "start": "node src/main.js"
     },
     "dependencies": {
-        "typescript": "2.0.x"
+        "typescript": "2.0.x",
+        "gl-matrix": "2.3.x"
     }
 }
